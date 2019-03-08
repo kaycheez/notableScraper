@@ -1,0 +1,14 @@
+{
+  "name": "notableScraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kaycheez/notableScraper.git",
+  "author": "<kevin.m.chau@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.13.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
